@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kirti Kumari
 
-🎓 Computer Science Engineer (Data Science) | Data Science & Machine Learning Enthusiast  
+🎓 B.Tech Computer Science Engineer (Data Science) | Data Science & Machine Learning Enthusiast  
 💻 Django & Python Backend Developer | NLP & Sentiment Analysis  
 📍 Kolkata, India
 
