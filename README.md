@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on Django, Machine Learning, and Full-Stack Web Development projects.
+# Hi there 👋, I'm Kirti Kumari
+
+🎓 Computer Science Engineer (Data Science) | Data Science & Machine Learning Enthusiast  
+💻 Django & Python Backend Developer | NLP & Sentiment Analysis  
+📍 Kolkata, India
+
+Passionate about transforming data into actionable insights and building intelligent applications using Machine Learning, Natural Language Processing, and Python technologies. I enjoy developing end-to-end solutions—from data processing and model training to deploying scalable web applications.
+
+## 🚀 What I Do
+
+- 🤖 Machine Learning & Data Science
+- 🧠 Natural Language Processing (NLP)
+- 📊 Data Analysis & Visualization
+- 🌐 Django & Django REST Framework Development
+- 🗄️ SQL, MySQL & MongoDB Databases
+- 🎨 Frontend Development with HTML, CSS, Bootstrap & Tailwind CSS
 
 
 ## 🌐 Socials:
